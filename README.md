@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/navinkumar0309" target="blank"><img align="center" src="https://raw.githubusercontent.com/navinkumar0309/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/navinkumar0309" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/navinkumar-i-63017921a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navinkumar-i-63017921a/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/navinkumar030921/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/navinkumar030921/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@navinkumar030921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@navinkumar030921" height="30" width="40" /></a>
